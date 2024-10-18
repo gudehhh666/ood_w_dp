@@ -1,0 +1,2 @@
+method_name,in_data,ood_dataset,FPR95,AUROC,AUPR
+cifar100_wrn_baseline_rate_0,cifar100,mean,64.63771428571428,75.18539314285714,38.63141091018217

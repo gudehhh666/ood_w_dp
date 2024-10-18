@@ -1,0 +1,23 @@
+method_name,in_data,ood_dataset,FPR95,AUROC,AUPR
+cifar10_resnet18_baseline_rate_0,cifar10,Error Detection,31.179896462467642,91.40533889104856,42.54363486382683
+cifar10_resnet18_baseline_rate_0,cifar10,Gaussian Noise (sigma = 0.5)_mean,30.73	+/- 0.57,85.34	+/- 0.17,38.91	+/- 0.34
+cifar10_resnet18_baseline_rate_0,cifar10,Rademacher Noise_mean,40.26	+/- 0.38,73.73	+/- 0.13,24.78	+/- 0.09
+cifar10_resnet18_baseline_rate_0,cifar10,Blob_mean,19.80	+/- 0.38,93.66	+/- 0.15,71.04	+/- 0.53
+cifar10_resnet18_baseline_rate_0,cifar10,Textures_mean,35.81	+/- 1.19,88.75	+/- 0.30,57.43	+/- 0.59
+cifar10_resnet18_baseline_rate_0,cifar10,SVHN_mean,16.73	+/- 0.63,93.85	+/- 0.12,67.80	+/- 0.44
+cifar10_resnet18_baseline_rate_0,cifar10,Places365_mean,16.81	+/- 0.71,93.89	+/- 0.13,67.98	+/- 0.59
+cifar10_resnet18_baseline_rate_0,cifar10,LSUN_crop_mean,22.25	+/- 0.37,91.94	+/- 0.12,62.83	+/- 0.56
+cifar10_resnet18_baseline_rate_0,cifar10,LSUN_resize_mean,26.88	+/- 0.71,90.88	+/- 0.23,62.29	+/- 0.75
+cifar10_resnet18_baseline_rate_0,cifar10,CIFAR-100_mean,46.97	+/- 1.22,85.67	+/- 0.32,51.10	+/- 0.59
+cifar10_resnet18_baseline_rate_0,cifar10,mean,28.471777777777778,88.63508583333332,56.01724773171506
+cifar10_resnet18_baseline_rate_0,cifar10,Error Detection,31.179896462467642,91.40533889104856,42.54363486382683
+cifar10_resnet18_baseline_rate_0,cifar10,Gaussian Noise (sigma = 0.5)_mean,30.33	+/- 0.61,85.38	+/- 0.12,38.91	+/- 0.20
+cifar10_resnet18_baseline_rate_0,cifar10,Rademacher Noise_mean,41.16	+/- 0.48,73.66	+/- 0.11,24.74	+/- 0.07
+cifar10_resnet18_baseline_rate_0,cifar10,Blob_mean,19.49	+/- 0.51,93.64	+/- 0.13,70.66	+/- 0.63
+cifar10_resnet18_baseline_rate_0,cifar10,Textures_mean,36.66	+/- 1.11,88.57	+/- 0.26,57.07	+/- 0.68
+cifar10_resnet18_baseline_rate_0,cifar10,SVHN_mean,16.88	+/- 0.60,93.95	+/- 0.13,68.27	+/- 0.55
+cifar10_resnet18_baseline_rate_0,cifar10,Places365_mean,16.84	+/- 0.91,93.88	+/- 0.20,67.94	+/- 0.74
+cifar10_resnet18_baseline_rate_0,cifar10,LSUN_crop_mean,22.33	+/- 0.41,91.98	+/- 0.13,63.13	+/- 0.58
+cifar10_resnet18_baseline_rate_0,cifar10,LSUN_resize_mean,26.84	+/- 0.69,90.77	+/- 0.16,61.84	+/- 0.46
+cifar10_resnet18_baseline_rate_0,cifar10,CIFAR-100_mean,46.81	+/- 1.85,85.66	+/- 0.26,51.14	+/- 0.58
+cifar10_resnet18_baseline_rate_0,cifar10,mean,28.592333333333343,88.60922747222223,55.96818045472228

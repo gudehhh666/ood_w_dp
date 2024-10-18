@@ -1,0 +1,43 @@
+method_name,in_data,ood_dataset,FPR95,AUROC,AUPR
+cifar100-wrn-moderate-ls0-r1,cifar100,Error Detection,48.97,85.53,69.11
+cifar100-wrn-moderate-ls0-r1,cifar100,Gaussian Noise (sigma = 0.5)_mean,44.65	+/- 0.24,75.72	+/- 0.25,27.15	+/- 0.27
+cifar100-wrn-moderate-ls0-r1,cifar100,Rademacher Noise_mean,59.59	+/- 0.22,51.77	+/- 0.15,15.62	+/- 0.03
+cifar100-wrn-moderate-ls0-r1,cifar100,Blob_mean,66.29	+/- 0.91,66.35	+/- 0.53,22.03	+/- 0.33
+cifar100-wrn-moderate-ls0-r1,cifar100,Textures_mean,73.18	+/- 0.69,69.33	+/- 0.42,26.90	+/- 0.54
+cifar100-wrn-moderate-ls0-r1,cifar100,SVHN_mean,54.03	+/- 1.01,78.49	+/- 0.31,35.97	+/- 0.56
+cifar100-wrn-moderate-ls0-r1,cifar100,Places365_mean,54.19	+/- 1.09,78.43	+/- 0.35,35.79	+/- 0.58
+cifar100-wrn-moderate-ls0-r1,cifar100,LSUN_crop_mean,48.19	+/- 1.09,83.88	+/- 0.25,52.58	+/- 0.65
+cifar100-wrn-moderate-ls0-r1,cifar100,LSUN_resize_mean,87.51	+/- 0.73,54.02	+/- 0.62,18.01	+/- 0.37
+cifar100-wrn-moderate-ls0-r1,cifar100,TinyImageNet_crop_mean,50.00	+/- 0.94,83.74	+/- 0.37,51.65	+/- 0.94
+cifar100-wrn-moderate-ls0-r1,cifar100,TinyImageNet_resize_mean,88.53	+/- 0.50,56.12	+/- 0.45,19.41	+/- 0.28
+cifar100-wrn-moderate-ls0-r1,cifar100,CIFAR-100_mean,65.46	+/- 1.13,73.31	+/- 0.30,30.68	+/- 0.40
+cifar100-wrn-moderate-ls0-r1,cifar100,mean,62.87,70.11,30.53
+cifar100-wrn-moderate-ls0-r1,cifar100,mean,65.09,72.00,34.33
+cifar100-wrn-moderate-ls0-r2,cifar100,Error Detection,47.05,86.48,70.79
+cifar100-wrn-moderate-ls0-r2,cifar100,Gaussian Noise (sigma = 0.5)_mean,48.91	+/- 0.44,67.86	+/- 0.24,21.18	+/- 0.12
+cifar100-wrn-moderate-ls0-r2,cifar100,Rademacher Noise_mean,66.22	+/- 0.21,41.36	+/- 0.11,13.59	+/- 0.02
+cifar100-wrn-moderate-ls0-r2,cifar100,Blob_mean,55.31	+/- 0.69,71.77	+/- 0.24,24.57	+/- 0.20
+cifar100-wrn-moderate-ls0-r2,cifar100,Textures_mean,71.42	+/- 1.11,70.69	+/- 0.39,27.89	+/- 0.45
+cifar100-wrn-moderate-ls0-r2,cifar100,SVHN_mean,50.84	+/- 0.45,80.18	+/- 0.16,37.77	+/- 0.40
+cifar100-wrn-moderate-ls0-r2,cifar100,Places365_mean,50.28	+/- 1.13,80.46	+/- 0.35,38.17	+/- 0.57
+cifar100-wrn-moderate-ls0-r2,cifar100,LSUN_crop_mean,50.70	+/- 0.71,83.25	+/- 0.20,51.50	+/- 0.47
+cifar100-wrn-moderate-ls0-r2,cifar100,LSUN_resize_mean,81.60	+/- 0.87,59.21	+/- 0.45,19.93	+/- 0.39
+cifar100-wrn-moderate-ls0-r2,cifar100,TinyImageNet_crop_mean,47.40	+/- 0.86,84.87	+/- 0.28,53.01	+/- 0.59
+cifar100-wrn-moderate-ls0-r2,cifar100,TinyImageNet_resize_mean,83.78	+/- 0.69,59.72	+/- 0.41,20.84	+/- 0.22
+cifar100-wrn-moderate-ls0-r2,cifar100,CIFAR-100_mean,64.45	+/- 0.75,74.59	+/- 0.20,31.85	+/- 0.45
+cifar100-wrn-moderate-ls0-r2,cifar100,mean,60.99,70.36,30.94
+cifar100-wrn-moderate-ls0-r2,cifar100,mean,62.29,74.05,35.59
+cifar100-wrn-moderate-ls0-r3,cifar100,Error Detection,45.03,86.19,69.05
+cifar100-wrn-moderate-ls0-r3,cifar100,Gaussian Noise (sigma = 0.5)_mean,24.46	+/- 0.28,86.96	+/- 0.14,40.07	+/- 0.28
+cifar100-wrn-moderate-ls0-r3,cifar100,Rademacher Noise_mean,30.08	+/- 0.29,81.90	+/- 0.12,32.22	+/- 0.17
+cifar100-wrn-moderate-ls0-r3,cifar100,Blob_mean,46.73	+/- 0.45,78.25	+/- 0.26,31.51	+/- 0.34
+cifar100-wrn-moderate-ls0-r3,cifar100,Textures_mean,74.44	+/- 0.66,69.76	+/- 0.29,27.09	+/- 0.32
+cifar100-wrn-moderate-ls0-r3,cifar100,SVHN_mean,55.76	+/- 0.90,76.72	+/- 0.39,32.51	+/- 0.42
+cifar100-wrn-moderate-ls0-r3,cifar100,Places365_mean,55.92	+/- 1.08,76.67	+/- 0.38,32.36	+/- 0.34
+cifar100-wrn-moderate-ls0-r3,cifar100,LSUN_crop_mean,47.64	+/- 0.92,84.07	+/- 0.30,52.35	+/- 0.50
+cifar100-wrn-moderate-ls0-r3,cifar100,LSUN_resize_mean,69.25	+/- 0.58,69.16	+/- 0.32,26.85	+/- 0.38
+cifar100-wrn-moderate-ls0-r3,cifar100,TinyImageNet_crop_mean,47.56	+/- 1.23,85.06	+/- 0.24,54.06	+/- 0.86
+cifar100-wrn-moderate-ls0-r3,cifar100,TinyImageNet_resize_mean,72.35	+/- 0.97,68.49	+/- 0.37,26.50	+/- 0.38
+cifar100-wrn-moderate-ls0-r3,cifar100,CIFAR-100_mean,64.36	+/- 1.07,74.45	+/- 0.31,31.77	+/- 0.44
+cifar100-wrn-moderate-ls0-r3,cifar100,mean,53.50,77.41,35.21
+cifar100-wrn-moderate-ls0-r3,cifar100,mean,60.42,75.70,35.96

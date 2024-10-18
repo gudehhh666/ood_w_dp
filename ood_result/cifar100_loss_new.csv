@@ -1,0 +1,67 @@
+method_name,in_data,ood_dataset,FPR95,AUROC,AUPR
+cifar100_wrn_loss_10_rate_0.3,cifar100,Error Detection,43.116848900013174,86.74471073788578,65.44915250297636
+cifar100_wrn_loss_10_rate_0.3,cifar100,Gaussian Noise (sigma = 0.5)_mean,66.22	+/- 0.42,52.03	+/- 0.23,15.45	+/- 0.06
+cifar100_wrn_loss_10_rate_0.3,cifar100,Rademacher Noise_mean,46.56	+/- 0.44,75.63	+/- 0.22,27.18	+/- 0.20
+cifar100_wrn_loss_10_rate_0.3,cifar100,Blob_mean,50.82	+/- 0.80,77.63	+/- 0.25,30.97	+/- 0.37
+cifar100_wrn_loss_10_rate_0.3,cifar100,Textures_mean,73.61	+/- 1.39,72.92	+/- 0.51,32.03	+/- 0.80
+cifar100_wrn_loss_10_rate_0.3,cifar100,SVHN_mean,69.69	+/- 0.97,71.40	+/- 0.39,29.86	+/- 0.36
+cifar100_wrn_loss_10_rate_0.3,cifar100,Places365_mean,69.50	+/- 0.67,71.50	+/- 0.49,29.85	+/- 0.56
+cifar100_wrn_loss_10_rate_0.3,cifar100,LSUN_crop_mean,46.35	+/- 0.94,85.85	+/- 0.39,56.31	+/- 1.09
+cifar100_wrn_loss_10_rate_0.3,cifar100,LSUN_resize_mean,60.30	+/- 1.45,76.50	+/- 0.29,34.33	+/- 0.41
+cifar100_wrn_loss_10_rate_0.3,cifar100,CIFAR-100_mean,63.34	+/- 0.95,75.91	+/- 0.31,34.33	+/- 0.32
+cifar100_wrn_loss_10_rate_0.3,cifar100,mean,60.71088888888889,73.26534391666667,32.255793041598324
+cifar100_wrn_loss_20_rate_0.3,cifar100,Error Detection,42.776315789473685,86.51484375,63.87108043682833
+cifar100_wrn_loss_20_rate_0.3,cifar100,Gaussian Noise (sigma = 0.5)_mean,59.59	+/- 0.62,60.04	+/- 0.16,17.85	+/- 0.06
+cifar100_wrn_loss_20_rate_0.3,cifar100,Rademacher Noise_mean,33.05	+/- 0.46,85.17	+/- 0.29,39.16	+/- 0.48
+cifar100_wrn_loss_20_rate_0.3,cifar100,Blob_mean,51.80	+/- 0.64,77.15	+/- 0.31,30.44	+/- 0.44
+cifar100_wrn_loss_20_rate_0.3,cifar100,Textures_mean,73.84	+/- 1.25,73.18	+/- 0.37,32.23	+/- 0.45
+cifar100_wrn_loss_20_rate_0.3,cifar100,SVHN_mean,70.38	+/- 0.78,70.48	+/- 0.32,29.11	+/- 0.45
+cifar100_wrn_loss_20_rate_0.3,cifar100,Places365_mean,70.82	+/- 1.10,70.68	+/- 0.35,29.55	+/- 0.46
+cifar100_wrn_loss_20_rate_0.3,cifar100,LSUN_crop_mean,47.03	+/- 1.19,85.82	+/- 0.27,56.72	+/- 0.59
+cifar100_wrn_loss_20_rate_0.3,cifar100,LSUN_resize_mean,61.34	+/- 0.91,75.85	+/- 0.35,33.72	+/- 0.48
+cifar100_wrn_loss_20_rate_0.3,cifar100,CIFAR-100_mean,63.08	+/- 0.70,75.85	+/- 0.32,34.43	+/- 0.36
+cifar100_wrn_loss_20_rate_0.3,cifar100,mean,58.99255555555556,74.91353052777777,33.68943780421073
+cifar100_wrn_loss_10_rate_0.5,cifar100,Error Detection,42.682123567382426,86.48249858271458,63.9354753030223
+cifar100_wrn_loss_10_rate_0.5,cifar100,Gaussian Noise (sigma = 0.5)_mean,65.39	+/- 0.49,52.42	+/- 0.21,15.57	+/- 0.05
+cifar100_wrn_loss_10_rate_0.5,cifar100,Rademacher Noise_mean,37.68	+/- 0.45,82.59	+/- 0.21,35.73	+/- 0.39
+cifar100_wrn_loss_10_rate_0.5,cifar100,Blob_mean,57.25	+/- 0.50,75.60	+/- 0.32,29.79	+/- 0.40
+cifar100_wrn_loss_10_rate_0.5,cifar100,Textures_mean,71.10	+/- 0.78,73.62	+/- 0.36,32.96	+/- 0.49
+cifar100_wrn_loss_10_rate_0.5,cifar100,SVHN_mean,64.28	+/- 0.82,74.17	+/- 0.44,33.31	+/- 0.75
+cifar100_wrn_loss_10_rate_0.5,cifar100,Places365_mean,64.03	+/- 0.85,74.49	+/- 0.50,33.51	+/- 0.66
+cifar100_wrn_loss_10_rate_0.5,cifar100,LSUN_crop_mean,47.51	+/- 1.23,86.04	+/- 0.34,57.73	+/- 0.76
+cifar100_wrn_loss_10_rate_0.5,cifar100,LSUN_resize_mean,66.89	+/- 1.51,74.18	+/- 0.45,33.28	+/- 0.44
+cifar100_wrn_loss_10_rate_0.5,cifar100,CIFAR-100_mean,63.26	+/- 0.90,75.62	+/- 0.20,34.10	+/- 0.37
+cifar100_wrn_loss_10_rate_0.5,cifar100,mean,59.70955555555556,74.30480669444444,33.99812777924503
+cifar100_wrn_loss_20_rate_0.5,cifar100,Error Detection,41.63372859025033,86.605929400445,63.750092590856376
+cifar100_wrn_loss_20_rate_0.5,cifar100,Gaussian Noise (sigma = 0.5)_mean,54.54	+/- 0.28,65.26	+/- 0.27,19.98	+/- 0.13
+cifar100_wrn_loss_20_rate_0.5,cifar100,Rademacher Noise_mean,36.02	+/- 0.36,84.15	+/- 0.18,38.45	+/- 0.27
+cifar100_wrn_loss_20_rate_0.5,cifar100,Blob_mean,53.49	+/- 1.19,76.74	+/- 0.38,30.51	+/- 0.38
+cifar100_wrn_loss_20_rate_0.5,cifar100,Textures_mean,71.91	+/- 0.74,73.31	+/- 0.29,32.65	+/- 0.36
+cifar100_wrn_loss_20_rate_0.5,cifar100,SVHN_mean,66.47	+/- 0.74,72.92	+/- 0.46,31.40	+/- 0.58
+cifar100_wrn_loss_20_rate_0.5,cifar100,Places365_mean,66.06	+/- 0.51,73.08	+/- 0.35,31.49	+/- 0.64
+cifar100_wrn_loss_20_rate_0.5,cifar100,LSUN_crop_mean,46.69	+/- 0.60,85.78	+/- 0.22,56.56	+/- 0.55
+cifar100_wrn_loss_20_rate_0.5,cifar100,LSUN_resize_mean,62.68	+/- 1.72,75.95	+/- 0.32,34.37	+/- 0.52
+cifar100_wrn_loss_20_rate_0.5,cifar100,CIFAR-100_mean,63.58	+/- 0.94,75.76	+/- 0.39,34.57	+/- 0.46
+cifar100_wrn_loss_20_rate_0.5,cifar100,mean,57.9358888888889,75.88392819444444,34.44259731152155
+cifar100_wrn_loss_10_rate_0.7,cifar100,Error Detection,43.2808155699722,86.31848085543538,63.64494966075044
+cifar100_wrn_loss_10_rate_0.7,cifar100,Gaussian Noise (sigma = 0.5)_mean,48.47	+/- 0.43,71.14	+/- 0.17,23.25	+/- 0.12
+cifar100_wrn_loss_10_rate_0.7,cifar100,Rademacher Noise_mean,43.98	+/- 0.56,77.08	+/- 0.27,28.31	+/- 0.25
+cifar100_wrn_loss_10_rate_0.7,cifar100,Blob_mean,65.21	+/- 0.75,71.55	+/- 0.39,26.45	+/- 0.42
+cifar100_wrn_loss_10_rate_0.7,cifar100,Textures_mean,72.11	+/- 0.65,73.27	+/- 0.33,33.24	+/- 0.40
+cifar100_wrn_loss_10_rate_0.7,cifar100,SVHN_mean,65.05	+/- 0.42,72.26	+/- 0.30,30.30	+/- 0.53
+cifar100_wrn_loss_10_rate_0.7,cifar100,Places365_mean,65.08	+/- 0.88,72.16	+/- 0.37,30.37	+/- 0.41
+cifar100_wrn_loss_10_rate_0.7,cifar100,LSUN_crop_mean,48.01	+/- 1.52,85.75	+/- 0.29,57.45	+/- 0.76
+cifar100_wrn_loss_10_rate_0.7,cifar100,LSUN_resize_mean,66.80	+/- 1.03,74.00	+/- 0.45,32.84	+/- 0.74
+cifar100_wrn_loss_10_rate_0.7,cifar100,CIFAR-100_mean,65.61	+/- 0.56,74.93	+/- 0.50,34.06	+/- 0.80
+cifar100_wrn_loss_10_rate_0.7,cifar100,mean,60.03566666666668,74.68187638888888,32.920316783883116
+cifar100_wrn_loss_20_rate_0.7,cifar100,Error Detection,42.71549444738233,86.21854048517783,64.13428370207318
+cifar100_wrn_loss_20_rate_0.7,cifar100,Gaussian Noise (sigma = 0.5)_mean,46.76	+/- 0.40,72.82	+/- 0.23,24.35	+/- 0.16
+cifar100_wrn_loss_20_rate_0.7,cifar100,Rademacher Noise_mean,50.22	+/- 0.48,70.57	+/- 0.16,23.04	+/- 0.11
+cifar100_wrn_loss_20_rate_0.7,cifar100,Blob_mean,57.78	+/- 0.81,74.06	+/- 0.23,27.72	+/- 0.29
+cifar100_wrn_loss_20_rate_0.7,cifar100,Textures_mean,72.20	+/- 1.55,73.54	+/- 0.44,32.83	+/- 0.43
+cifar100_wrn_loss_20_rate_0.7,cifar100,SVHN_mean,65.10	+/- 0.68,72.28	+/- 0.35,30.06	+/- 0.51
+cifar100_wrn_loss_20_rate_0.7,cifar100,Places365_mean,65.27	+/- 0.80,71.89	+/- 0.35,29.45	+/- 0.44
+cifar100_wrn_loss_20_rate_0.7,cifar100,LSUN_crop_mean,48.39	+/- 1.19,85.47	+/- 0.33,56.18	+/- 0.73
+cifar100_wrn_loss_20_rate_0.7,cifar100,LSUN_resize_mean,59.77	+/- 1.06,76.95	+/- 0.29,34.93	+/- 0.38
+cifar100_wrn_loss_20_rate_0.7,cifar100,CIFAR-100_mean,65.83	+/- 1.40,74.95	+/- 0.45,33.58	+/- 0.54
+cifar100_wrn_loss_20_rate_0.7,cifar100,mean,59.036888888888896,74.7270516388889,32.45934306866462

@@ -1,0 +1,9 @@
+method_name,in_data,ood_dataset,FPR95,AUROC,AUPR
+cifar10-res18-EL2N-r0.1,cifar10,Error Detection,21.97,94.01,44.45
+cifar10-res18-EL2N-r0.1,cifar10,Gaussian Noise (sigma = 0.5)_mean,8.62	+/- 0.12,96.18	+/- 0.06,71.36	+/- 0.40
+cifar10-res18-EL2N-r0.1,cifar10,Rademacher Noise_mean,9.46	+/- 0.18,95.53	+/- 0.08,71.02	+/- 0.44
+cifar10-res18-EL2N-r0.1,cifar10,Blob_mean,21.79	+/- 0.82,92.58	+/- 0.11,65.15	+/- 0.37
+cifar10-res18-EL2N-r0.1,cifar10,Textures_mean,25.97	+/- 1.77,91.88	+/- 0.26,67.43	+/- 0.62
+cifar10-res18-EL2N-r0.1,cifar10,SVHN_mean,19.86	+/- 0.78,92.49	+/- 0.16,64.83	+/- 0.41
+cifar10-res18-EL2N-r0.1,cifar10,Places365_mean,20.51	+/- 0.88,92.38	+/- 0.18,64.28	+/- 0.48
+cifar10-res18-EL2N-r0.1,cifar10,LSUN_crop_mean,15.87	+/- 0.47,94.85	+/- 0.09,75.70	+/- 0.34

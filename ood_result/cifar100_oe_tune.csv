@@ -1,0 +1,12 @@
+method_name,in_data,ood_dataset,FPR95,AUROC,AUPR
+cifar100_resnet18_oe_rate_0,cifar100,Error Detection,43.93213314337521,87.72411638244459,66.2695018280198
+cifar100_resnet18_oe_rate_0,cifar100,Gaussian Noise (sigma = 0.5)_mean,0.00	+/- 0.00,100.00	+/- 0.00,100.00	+/- 0.00
+cifar100_resnet18_oe_rate_0,cifar100,Rademacher Noise_mean,0.00	+/- 0.00,99.99	+/- 0.00,99.94	+/- 0.01
+cifar100_resnet18_oe_rate_0,cifar100,Blob_mean,30.50	+/- 0.60,89.70	+/- 0.16,55.24	+/- 0.48
+cifar100_resnet18_oe_rate_0,cifar100,Textures_mean,58.21	+/- 0.75,78.89	+/- 0.33,39.37	+/- 0.51
+cifar100_resnet18_oe_rate_0,cifar100,SVHN_mean,60.00	+/- 0.93,76.22	+/- 0.31,32.01	+/- 0.47
+cifar100_resnet18_oe_rate_0,cifar100,Places365_mean,61.10	+/- 1.05,76.15	+/- 0.33,32.17	+/- 0.47
+cifar100_resnet18_oe_rate_0,cifar100,LSUN_crop_mean,44.43	+/- 1.10,84.96	+/- 0.31,49.70	+/- 0.66
+cifar100_resnet18_oe_rate_0,cifar100,LSUN_resize_mean,41.12	+/- 0.92,87.01	+/- 0.26,56.67	+/- 0.67
+cifar100_resnet18_oe_rate_0,cifar100,CIFAR-100_mean,59.84	+/- 0.61,78.27	+/- 0.36,36.84	+/- 0.40
+cifar100_resnet18_oe_rate_0,cifar100,mean,39.46555555555556,85.68641933333335,55.769315581033
